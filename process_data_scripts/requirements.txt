@@ -1,0 +1,23 @@
+#1
+tqdm
+#re
+#subprocess
+#os
+
+#2
+pandas
+chess
+#mmap
+#csv
+
+#3
+numpy
+
+#4
+swifter
+
+#6
+tensorflow == 2.15.1
+scikit-learn
+tensorflow_decision_forests == 1.8.1
+matplotlib

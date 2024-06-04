@@ -1,0 +1,4 @@
+data/
+chess_bot/lichess_token.txt
+chess_bot/cohere_key.txt
+__pycache__/
